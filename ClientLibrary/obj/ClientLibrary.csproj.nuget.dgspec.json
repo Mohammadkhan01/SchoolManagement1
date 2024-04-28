@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mohammadkhan/Projects/SchoolManagement/ClientLibrary/ClientLibrary.csproj": {}
+  },
+  "projects": {
+    "/Users/mohammadkhan/Projects/SchoolManagement/BaseLibrary/BaseLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mohammadkhan/Projects/SchoolManagement/BaseLibrary/BaseLibrary.csproj",
+        "projectName": "BaseLibrary",
+        "projectPath": "/Users/mohammadkhan/Projects/SchoolManagement/BaseLibrary/BaseLibrary.csproj",
+        "packagesPath": "/Users/mohammadkhan/.nuget/packages/",
+        "outputPath": "/Users/mohammadkhan/Projects/SchoolManagement/BaseLibrary/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mohammadkhan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/Users/mohammadkhan/Documents/Project/package": {},
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.315/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mohammadkhan/Projects/SchoolManagement/ClientLibrary/ClientLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mohammadkhan/Projects/SchoolManagement/ClientLibrary/ClientLibrary.csproj",
+        "projectName": "ClientLibrary",
+        "projectPath": "/Users/mohammadkhan/Projects/SchoolManagement/ClientLibrary/ClientLibrary.csproj",
+        "packagesPath": "/Users/mohammadkhan/.nuget/packages/",
+        "outputPath": "/Users/mohammadkhan/Projects/SchoolManagement/ClientLibrary/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mohammadkhan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/Users/mohammadkhan/Documents/Project/package": {},
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/mohammadkhan/Projects/SchoolManagement/BaseLibrary/BaseLibrary.csproj": {
+                "projectPath": "/Users/mohammadkhan/Projects/SchoolManagement/BaseLibrary/BaseLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Blazored.LocalStorage": {
+              "target": "Package",
+              "version": "[4.4.0, )"
+            },
+            "Microsoft.AspNetCore.Components.Authorization": {
+              "target": "Package",
+              "version": "[7.0.18, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.315/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

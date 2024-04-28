@@ -1,0 +1,15 @@
+/Users/mohammadkhan/Projects/SchoolManagement/ClientLibrary/obj/Debug/net7.0/ClientLibrary.csproj.AssemblyReference.cache
+/Users/mohammadkhan/Projects/SchoolManagement/ClientLibrary/obj/Debug/net7.0/ClientLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohammadkhan/Projects/SchoolManagement/ClientLibrary/obj/Debug/net7.0/ClientLibrary.AssemblyInfoInputs.cache
+/Users/mohammadkhan/Projects/SchoolManagement/ClientLibrary/obj/Debug/net7.0/ClientLibrary.AssemblyInfo.cs
+/Users/mohammadkhan/Projects/SchoolManagement/ClientLibrary/obj/Debug/net7.0/ClientLibrary.csproj.CoreCompileInputs.cache
+/Users/mohammadkhan/Projects/SchoolManagement/ClientLibrary/bin/Debug/net7.0/ClientLibrary.deps.json
+/Users/mohammadkhan/Projects/SchoolManagement/ClientLibrary/bin/Debug/net7.0/ClientLibrary.dll
+/Users/mohammadkhan/Projects/SchoolManagement/ClientLibrary/bin/Debug/net7.0/ClientLibrary.pdb
+/Users/mohammadkhan/Projects/SchoolManagement/ClientLibrary/bin/Debug/net7.0/BaseLibrary.dll
+/Users/mohammadkhan/Projects/SchoolManagement/ClientLibrary/bin/Debug/net7.0/BaseLibrary.pdb
+/Users/mohammadkhan/Projects/SchoolManagement/ClientLibrary/obj/Debug/net7.0/ClientLibrary.csproj.CopyComplete
+/Users/mohammadkhan/Projects/SchoolManagement/ClientLibrary/obj/Debug/net7.0/ClientLibrary.dll
+/Users/mohammadkhan/Projects/SchoolManagement/ClientLibrary/obj/Debug/net7.0/refint/ClientLibrary.dll
+/Users/mohammadkhan/Projects/SchoolManagement/ClientLibrary/obj/Debug/net7.0/ClientLibrary.pdb
+/Users/mohammadkhan/Projects/SchoolManagement/ClientLibrary/obj/Debug/net7.0/ref/ClientLibrary.dll
