@@ -1,0 +1,17 @@
+/Users/mohammadkhan/Projects/SchoolManagement/ServerLibrary/bin/Debug/net7.0/ServerLibrary.deps.json
+/Users/mohammadkhan/Projects/SchoolManagement/ServerLibrary/bin/Debug/net7.0/ServerLibrary.runtimeconfig.json
+/Users/mohammadkhan/Projects/SchoolManagement/ServerLibrary/bin/Debug/net7.0/ServerLibrary.dll
+/Users/mohammadkhan/Projects/SchoolManagement/ServerLibrary/bin/Debug/net7.0/ServerLibrary.pdb
+/Users/mohammadkhan/Projects/SchoolManagement/ServerLibrary/bin/Debug/net7.0/BaseLibrary.dll
+/Users/mohammadkhan/Projects/SchoolManagement/ServerLibrary/bin/Debug/net7.0/BaseLibrary.pdb
+/Users/mohammadkhan/Projects/SchoolManagement/ServerLibrary/obj/Debug/net7.0/ServerLibrary.csproj.AssemblyReference.cache
+/Users/mohammadkhan/Projects/SchoolManagement/ServerLibrary/obj/Debug/net7.0/ServerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohammadkhan/Projects/SchoolManagement/ServerLibrary/obj/Debug/net7.0/ServerLibrary.AssemblyInfoInputs.cache
+/Users/mohammadkhan/Projects/SchoolManagement/ServerLibrary/obj/Debug/net7.0/ServerLibrary.AssemblyInfo.cs
+/Users/mohammadkhan/Projects/SchoolManagement/ServerLibrary/obj/Debug/net7.0/ServerLibrary.csproj.CoreCompileInputs.cache
+/Users/mohammadkhan/Projects/SchoolManagement/ServerLibrary/obj/Debug/net7.0/ServerLibrary.csproj.CopyComplete
+/Users/mohammadkhan/Projects/SchoolManagement/ServerLibrary/obj/Debug/net7.0/ServerLibrary.dll
+/Users/mohammadkhan/Projects/SchoolManagement/ServerLibrary/obj/Debug/net7.0/refint/ServerLibrary.dll
+/Users/mohammadkhan/Projects/SchoolManagement/ServerLibrary/obj/Debug/net7.0/ServerLibrary.pdb
+/Users/mohammadkhan/Projects/SchoolManagement/ServerLibrary/obj/Debug/net7.0/ServerLibrary.genruntimeconfig.cache
+/Users/mohammadkhan/Projects/SchoolManagement/ServerLibrary/obj/Debug/net7.0/ref/ServerLibrary.dll
