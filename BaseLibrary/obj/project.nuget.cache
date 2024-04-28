@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NjLoqiyewz4FgpW/IaYmj+yIP5s1AKpufrlQ7Msqs57dY2JL120XMl4zZ8aK4mapC66NIshSGIfUNzxRvxkhkw==",
+  "success": true,
+  "projectFilePath": "/Users/mohammadkhan/Projects/SchoolManagement/BaseLibrary/BaseLibrary.csproj",
+  "expectedPackageFiles": [
+    "/Users/mohammadkhan/.nuget/packages/automapper/12.0.0/automapper.12.0.0.nupkg.sha512",
+    "/Users/mohammadkhan/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

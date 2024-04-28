@@ -1,0 +1,12 @@
+/Users/mohammadkhan/Projects/SchoolManagement/BaseLibrary/bin/Debug/net7.0/BaseLibrary.deps.json
+/Users/mohammadkhan/Projects/SchoolManagement/BaseLibrary/bin/Debug/net7.0/BaseLibrary.dll
+/Users/mohammadkhan/Projects/SchoolManagement/BaseLibrary/bin/Debug/net7.0/BaseLibrary.pdb
+/Users/mohammadkhan/Projects/SchoolManagement/BaseLibrary/obj/Debug/net7.0/BaseLibrary.csproj.AssemblyReference.cache
+/Users/mohammadkhan/Projects/SchoolManagement/BaseLibrary/obj/Debug/net7.0/BaseLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohammadkhan/Projects/SchoolManagement/BaseLibrary/obj/Debug/net7.0/BaseLibrary.AssemblyInfoInputs.cache
+/Users/mohammadkhan/Projects/SchoolManagement/BaseLibrary/obj/Debug/net7.0/BaseLibrary.AssemblyInfo.cs
+/Users/mohammadkhan/Projects/SchoolManagement/BaseLibrary/obj/Debug/net7.0/BaseLibrary.csproj.CoreCompileInputs.cache
+/Users/mohammadkhan/Projects/SchoolManagement/BaseLibrary/obj/Debug/net7.0/BaseLibrary.dll
+/Users/mohammadkhan/Projects/SchoolManagement/BaseLibrary/obj/Debug/net7.0/refint/BaseLibrary.dll
+/Users/mohammadkhan/Projects/SchoolManagement/BaseLibrary/obj/Debug/net7.0/BaseLibrary.pdb
+/Users/mohammadkhan/Projects/SchoolManagement/BaseLibrary/obj/Debug/net7.0/ref/BaseLibrary.dll
